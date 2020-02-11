@@ -1,0 +1,13 @@
+{
+  "dev": {
+    "app_function": "login3.app",
+    "aws_region": "us-west-2",
+    "profile_name": "default",
+    "project_name": "flaskbasics",
+    "runtime": "python3.6",
+    "s3_bucket": "iepug-flask-demo-dev",
+    "exclude": [
+      ".idea"
+    ]
+  }
+}
